@@ -1,0 +1,3 @@
+# Uncommon Python Error: Handling KeyError Exception
+
+This repository demonstrates a common error in Python related to accessing dictionary keys, but with a slightly uncommon approach.  The code showcases a function that attempts to access a dictionary key. If the key is missing, a KeyError exception is raised. However, the code is designed to gracefully handle such an exception using a `try-except` block to prevent program crashes.
